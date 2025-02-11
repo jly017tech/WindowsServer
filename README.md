@@ -12,8 +12,10 @@
   <li>Active Directory</li>
 </ul>
 
+![Screenshot from 2025-02-10 23-24-41](https://github.com/user-attachments/assets/e75a5e14-e27b-47c0-a007-abd51b7c5fa9)
+
 <p>
   I use Windows Server 2022 from the official Microsoft website as my domain controller VM.
-  After the Windows Server 2022 installation is finished, I opened Server Manager and renamed to DC-Wolfy01 as my domain controller.
+  After the Windows Server 2022 installation is finished, I opened Server Manager and renamed to OrionWolfDC as my domain controller.
   I went through steps
 </p>
