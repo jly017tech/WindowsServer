@@ -21,7 +21,7 @@
   
 </p>
 
-<h2>Adding Active Directory</h2>
+<h2>Installing Active Directory</h2>
 
 ![Screenshot from 2025-02-10 23-31-53](https://github.com/user-attachments/assets/ac3b5dfc-ee40-48bb-9f6e-4c02fed8f909)
 
@@ -32,7 +32,7 @@
 </p>
 
 
-<h2>After installing Active Directory</h2>
+<h2>Promoting domain controller</h2>
 
 ![Screenshot from 2025-02-10 23-32-38](https://github.com/user-attachments/assets/457c2928-8c7e-44d4-9b8e-e476659d973c)
 
