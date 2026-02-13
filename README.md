@@ -7,6 +7,7 @@
 <ul>
   <li>Installing Windows Server</li>
   <li>Server Manager</li>
+  <li>Active Directory and Services</li>
   <li>Promoting Domain Controller</li>
   
 </ul>
@@ -40,7 +41,8 @@
 <p>I download Windows 11 iso file from the official Microsoft website. 
 I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, iso file path file, size of gigabyte,
 number of cores, and Display setting. After creating the first virtual machine, the picture shows from above shows at the beginning of installation.
-I accept the agreement, select the Desktop Windows 2025, and create three different partitions.
+I accept the agreement, select the Desktop Windows 2025, and create three different partitions. It took 2-3 minutes finishing installing Windows 2025 Desktop GUI.
+Once it finishes installation, the virutal machine reboots and shows a administrator and password page.  
 </p>
 
 <h2>Server Manager </h2>
@@ -48,13 +50,12 @@ I accept the agreement, select the Desktop Windows 2025, and create three differ
 ![Screenshot from 2025-02-10 23-24-41](https://github.com/user-attachments/assets/e75a5e14-e27b-47c0-a007-abd51b7c5fa9)
 
 <p>
-  I use Windows Server 2022 from the official Microsoft website as my domain controller VM and called OrionWolfTech
-  After the Windows Server 2022 installation is finished, I went to the Windows general setting and renamed to the computer name in the system section called OrionWolfDC as my domain controller.
-  In the next picture, I opened the Server manager and went to Add role section and download Active Directory: Users and Computers.
+  The first step is I rename the computer name to HuskyTech-DC, so it will add in the Windows Active Directory: Users and Computers after setting up static IP address,
+  DHCP server, and DNS server.
   
 </p>
 
-<h2>Installing Active Directory</h2>
+<h2>Installing Active Directory and other services</h2>
 
 ![Screenshot from 2025-02-10 23-31-53](https://github.com/user-attachments/assets/ac3b5dfc-ee40-48bb-9f6e-4c02fed8f909)
 
