@@ -6,7 +6,7 @@
 
 <ul>
   <li>Installing Windows Server</li>
-  <li>Active Directory</li>
+  <li>Active Directory Installation</li>
 </ul>
 
 <br>
