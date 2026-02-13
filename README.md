@@ -18,15 +18,15 @@
   <table>
     <tr>
       <td valign="bottom">
-        <img src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" width="320" height="300" alt="Step 1" /><br>
+        <img src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" width="620" height="300" alt="Step 1" /><br>
         <sub><b>Fig 1:</b> Initial Boot</sub>
       </td>
       <td valign="bottom">
-        <img src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" width="320" height="300" alt="Step 2" /><br>
+        <img src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" width="620" height="300" alt="Step 2" /><br>
         <sub><b>Fig 2:</b> OS Selection</sub>
       </td>
       <td valign="bottom">
-        <img src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" width="320" height="300" alt="Step 3" /><br>
+        <img src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" width="620" height="300" alt="Step 3" /><br>
         <sub><b>Fig 3:</b> Partitions</sub>
       </td>
     </tr>
