@@ -13,24 +13,25 @@
 
 <h2>Installing Windows Server</h2>
 
-<img width="1028" height="846" alt="image" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
 
 *Figure 1: Windows Installation* 
 
 <br>
 <p>I download Windows 11 iso file from the official Microsoft website. 
-I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, size of gigabyte,
-number of cores, and
+I create a virtual machine name Windows Server 2025 and went through changing memory ram processor, iso file path file, size of gigabyte,
+number of cores, and Display setting. After creating the first virtual machine, the picture shows from above shows at the beginning of installation.
+I accept the agreement, select the Desktop Windows 2025, and create three different partitions.
 </p>
 
 
 
 
-<img width="1019" height="859" alt="image" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/357167cf-d567-4d83-bf7a-29823b914207" />
 
+<hr>
 
-
-<img width="1038" height="849" alt="image" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1caf71c4-d8ed-4dc5-a293-58d8679d37c5" />
 
 
 
