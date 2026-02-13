@@ -12,8 +12,6 @@
   
 </ul>
 
-<br>
-
 <h2 align="center">Installing Windows Server</h2>
 
 
