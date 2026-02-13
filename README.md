@@ -1,4 +1,4 @@
-<h1>Windows Server 2022/2025</h1>
+<h1>Window Server 2022/2025</h1>
 
 <hr>
 
@@ -66,7 +66,9 @@ Once it finishes installation, the virutal machine reboots and shows a administr
 <br>
 
 <img width="1599" height="853" alt="Screenshot from 2026-02-13 08-18-16" src="https://github.com/user-attachments/assets/5e4ecc11-76b5-411b-8850-528fcc9da42a" />
-        <sub><b>Fig 3:</b> Server roles</sub>
+      <div align="center">
+      <sub><b>Fig 4:</b> Server roles</sub>
+      </div>  
 
 
 
@@ -78,5 +80,14 @@ Once it finishes installation, the virutal machine reboots and shows a administr
   After setting up OrionWolfDC Domain, I go ahead promote and went through each steps and click start and restarting the computer once it checks its prequisities. 
   I selected add new forest radio button because I don't have other domain exist and I have to create new domain.
 </p>
+
+
+<img width="1024" height="741" alt="image" src="https://github.com/user-attachments/assets/5355c283-fcd0-424d-8b69-7fff09032837" />
+ <div align="center">
+      <sub><b>Fig 5:</b> Server roles</sub>
+      </div>  
+<p></p>
+
+
 
 
