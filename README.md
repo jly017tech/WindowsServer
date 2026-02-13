@@ -6,7 +6,9 @@
 
 <ul>
   <li>Installing Windows Server</li>
-  <li>Active Directory Installation</li>
+  <li>Server Manager</li>
+  <li>Promoting Domain Controller</li>
+  
 </ul>
 
 <br>
@@ -41,14 +43,14 @@ number of cores, and Display setting. After creating the first virtual machine, 
 I accept the agreement, select the Desktop Windows 2025, and create three different partitions.
 </p>
 
-<h2>Active Directory </h2>
+<h2>Server Manager </h2>
 
 ![Screenshot from 2025-02-10 23-24-41](https://github.com/user-attachments/assets/e75a5e14-e27b-47c0-a007-abd51b7c5fa9)
 
 <p>
   I use Windows Server 2022 from the official Microsoft website as my domain controller VM and called OrionWolfTech
   After the Windows Server 2022 installation is finished, I went to the Windows general setting and renamed to the computer name in the system section called OrionWolfDC as my domain controller.
-  In the next picture, I opened the Server manager and went to Add role to install Active Directory and other components.
+  In the next picture, I opened the Server manager and went to Add role section and download Active Directory: Users and Computers.
   
 </p>
 
@@ -74,7 +76,7 @@ I accept the agreement, select the Desktop Windows 2025, and create three differ
 ![Screenshot from 2025-02-10 23-32-38](https://github.com/user-attachments/assets/457c2928-8c7e-44d4-9b8e-e476659d973c)
 
 <p>
-  After finish adding Active Directory and promoting my Windows Server 2022 VM Domain, I opened Active Directory: Computers and Users and created few OU and users.
+  After setting up OrionWolfDC Domain, I go ahead promote and went through each steps and click start and restarting the computer once it checks its prequisities. 
 </p>
 
 
