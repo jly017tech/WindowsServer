@@ -11,11 +11,18 @@
 
 <br>
 
-<h2>Installing Windows Server</h2>
+<h2 align="center">Installing Windows Server</h2>
 
+
+<div align="center">
+  
 <img width="500" height="500" alt="image" align="center" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
 
-*Figure 1: Windows Installation* 
+
+<sub>*Figure 1: Windows Installation* </sub>
+  
+</div>
+
 
 <br>
 <p>I download Windows 11 iso file from the official Microsoft website. 
