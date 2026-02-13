@@ -2,12 +2,27 @@
 
 <hr>
 
+<h2>Table Contents:</h2>
+
 <ul>
-  <li/li>
+  <li><a href=https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md#installing-windows-server><a/>Installing Windows Server</li>
   <li>Active Directory</li>
 </ul>
 
 <br>
+
+<h2>Installing Windows Server</h2>
+
+
+* [Installing Windows Server 2025 with Oracle VirtualBox](#installing-windows-server-2025-with-oracle-virtualbox)
+* [Promoting Domain Controller](#promoting-domain-controller)
+
+
+
+
+<img width="1028" height="846" alt="image" src="https://github.com/user-attachments/assets/ce2f1bba-bea3-427e-b20a-346d0b281932" />
+
+
 
 <h2>After adding Active Directory</h2>
 
